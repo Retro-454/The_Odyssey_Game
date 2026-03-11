@@ -1,0 +1,4 @@
+repository "Oddyssey- rouge like/Oddyssey- rouge like@20067448889539@cloud"
+  path "/"
+    br "/main"
+    co "/main"
